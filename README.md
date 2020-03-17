@@ -8,6 +8,7 @@ divertissement:
 
 * [orange/sosh](https://www.sosh.fr/client) offrira la diffusion en clair à tous les clients de la TV d’Orange via leur décodeur, du 17 au 31 mars 2020, des 4 chaînes OCS et 5 chaînes jeunesse : Boomerang, Tiji pour les petits et Boing, Toonami et Canal J pour les plus grands (hors services à la demande).
 * [CANAL +](https://twitter.com/canalplus/status/1239602821231775746) CANAL+ passe en clair pour tous sur toutes les box
+* [openculture](http://www.openculture.com/freemoviesonline) : une mine d’or pour les curieux à la recherche d’un classique manqué ou d’un court-métrage oublié de leurs réalisateurs préférés
 
 games:
 
