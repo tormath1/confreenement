@@ -1,4 +1,4 @@
-Une liste de ressource gratuite pour passer le temps lors du confinement.
+Une liste de ressources gratuites pour passer le temps lors du confinement.
 
 culture:
 
