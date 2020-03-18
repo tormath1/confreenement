@@ -10,6 +10,10 @@ divertissement:
 * [CANAL +](https://twitter.com/canalplus/status/1239602821231775746) CANAL+ passe en clair pour tous sur toutes les box
 * [openculture](http://www.openculture.com/freemoviesonline) : une mine d’or pour les curieux à la recherche d’un classique manqué ou d’un court-métrage oublié de leurs réalisateurs préférés
 
+lecture:
+
+* [Chez Soi](https://fr.calameo.com/read/00021502295cd447c3828) : la maison, le chez-soi : de ce sujet, on a souvent l'impression qu'il n'y a rien à dire. Pourtant, la maison est aussi une base arrière où l'on peut se protéger, refaire ses forces, se souvenir de ses désirs, résister à l'éparpillement et à la dissolution.
+
 games:
 
 * [Boardgames](https://boardgamearena.com/) Plateforme de jeux de plateau en ligne pour jouer entre amis ou avec des inconnus. 174 jeux dans le catalogue.
